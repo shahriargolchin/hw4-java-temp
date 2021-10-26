@@ -21,7 +21,7 @@ GitHub repository to hold your work.
 2. Clone the repository to your local machine and checkout the branch you
 just created. Your command must be similar to :
    ```
-   git clone -b <branch> https://github.com/CSC-483-583-Fall-2021/hw3-java-<your-username>.git
+   git clone -b <branch> https://github.com/CSC-483-583-Fall-2021/hw4-java-<your-username>.git
    git checkout lastname_firstname_dev
    ```
 
